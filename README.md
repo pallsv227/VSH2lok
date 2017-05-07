@@ -17,3 +17,5 @@ validatorinn sagði að það væri bara eitthvað að <title> en við fundum ek
 
 ## viðhald
 það mætti laga menu-ið
+
+við höfum enga hugmynd hvernig við áttum að nota þetta í hópverkefninu ef þetta átti að vera einstaklings partur!!
